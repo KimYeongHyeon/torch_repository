@@ -1,4 +1,7 @@
 
+## Documents
+[PaddlePaddle/recongition.md](https://github.com/PaddlePaddle/PaddleOCR/blob/release/2.6/doc/doc_en/recognition_en.md)
+- Document 및 yaml 포맷 확인
 
 ## Sites
 [colah's blog](https://colah.github.io/)
